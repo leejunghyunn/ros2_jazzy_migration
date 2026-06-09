@@ -12,4 +12,3 @@ Ubuntu 22.04 Humble → 24.04 Jazzy 마이그레이션 (학습용 직접 구현)
 - [ ] resources/confirm.sh
 - [ ] ... (작성 중)
 
-> 참고: 선임 레포 https://github.com/Seooooooogi/ros2_jazzy_test
