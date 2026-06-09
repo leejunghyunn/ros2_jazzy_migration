@@ -1,0 +1,9 @@
+# 머신 종속 / 비밀
+.env
+*.log
+build/
+install/
+log/
+
+# state (런타임 생성)
+.ros2_jazzy_test/
