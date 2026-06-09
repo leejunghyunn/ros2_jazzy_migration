@@ -1,6 +1,5 @@
 # my_ros2_jazzy
-
-ROKEY 협동2 — Ubuntu 22.04 Humble → 24.04 Jazzy 마이그레이션 (학습용 직접 구현).
+Ubuntu 22.04 Humble → 24.04 Jazzy 마이그레이션 (학습용 직접 구현).
 
 ## 구조
 - `install.sh` — 단일 진입점 (13 step, state 기반 재개)
