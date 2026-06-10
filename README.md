@@ -1,6 +1,6 @@
 # ros2_jazzy_migration
 
-Ubuntu 22.04 Humble → 24.04 Jazzy 마이그레이션 (학습용 직접 구현).
+Ubuntu 22.04 Humble → 24.04 Jazzy 마이그레이션
 
 ## 구조
 
