@@ -40,5 +40,3 @@ ros2_jazzy_migration/
 - ROS: ROS 2 Jazzy
 - RMW: CycloneDDS (`rmw_cyclonedds_cpp`)
 
-> 참고: 선임 레포 https://github.com/Seooooooogi/ros2_jazzy_test
-
